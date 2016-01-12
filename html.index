@@ -6,20 +6,24 @@
   </head>
   <body>
     <h2 class="Title">Het Forum Romanum</h2>
-      <div>
+      <table>
+        <thead>
+				  <th></th>
+			  </thead>
+			  <tbody>
         <tr>
           <td>
             <p class="kopjes">
             Archaïsche tijd (10e eeuw - 8e eeuw v.Chr.)
             </p>
           </td>
-          </tr>
-          <tr>
-          <td>
+         </tr>
+         <tr>
+           <td>
           <p class="kopjes">
           Koningstijd (8e eeuw - 6e eeuw v.Chr.)
           </p>
-          </td>
+           </td>
         </tr>
         <tr>
           <td>
@@ -42,6 +46,6 @@
           </p>
           </td>
         </tr>
-      </div>
+      </table>
   </body>
 </html>

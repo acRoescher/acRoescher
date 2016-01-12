@@ -9,9 +9,37 @@
       <div>
         <tr>
           <td>
-            <p>
-            Archaïsche tijd
+            <p class="kopjes">
+            Archaïsche tijd (10e eeuw - 8e eeuw v.Chr.)
             </p>
+          </td>
+          </tr>
+          <tr>
+          <td>
+          <p class="kopjes">
+          Koningstijd (8e eeuw - 6e eeuw v.Chr.)
+          </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+          <p class="kopjes">
+          Republikeinse tijd (509 - 54 v.Chr.)
+          </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+          <p class="kopjes">
+          De tijd van Caesar en Augustus (Overgang van Republikeinse tot Keizertijd)
+          </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+          <p class="kopjes">
+          Keizertijd (14 - 476 n.Chr.)
+          </p>
           </td>
         </tr>
       </div>
